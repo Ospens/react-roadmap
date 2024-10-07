@@ -1,4 +1,8 @@
 baseURL = 'https://example.org/'
 languageCode = 'ru'
-title = 'My New Hugo Site'
+title = 'Frontend роадмап v0.5'
 theme = 'hugo-book'
+
+[params]
+    BookTheme = 'auto'
+    BookSection = '*'
