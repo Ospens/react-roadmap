@@ -49,7 +49,7 @@ weight = 2
 
 [**Макет приложения**](https://www.figma.com/design/lSEOPhLr2nWVh82za4ZKTS/%D0%9A%D1%80%D0%B5%D1%81%D1%82%D0%B8%D0%BA%D0%B8-%D0%BD%D0%BE%D0%BB%D0%B8%D0%BA%D0%B8-%7C-EasyJS?node-id=1-2&t=Uo89IXHkZ0WeS559-1)
 
-![img.png](/images/tic-tac-toe/img.png)
+![img.png](/react-roadmap/images/tic-tac-toe/img.png)
 
 1. Программа должна соответствовать оригинальным правилам. 
 2. CSS классы должны быть названы в соответствии с [БЭМ](https://ru.bem.info/methodology/) методологией.
