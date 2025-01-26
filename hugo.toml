@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://ospens.github.io/react-roadmap/'
 languageCode = 'ru'
 title = 'Frontend роадмап v0.5'
 theme = 'hugo-book'
