@@ -21,10 +21,10 @@
 
 ### Таблица проектов
 
-| Проект                                  | Верстка                              | Программирование                             | Прочее |
-|-----------------------------------------|--------------------------------------|----------------------------------------------| ------ |
-| [Визитка](./projects/landing)           | HTML, CSS, адаптивная верстка, Figma |                                              |        |
-| [Крестики-нолики](./projects/tic-tac-toe) | БЭМ                                  | Основы JS, Работа с DOM                      |        |
-| [Камень-ножницы-бумага](./projects/rock-paper-scissors)    | tailwind                             | JS, React, redux                             | vite   |
-| TODO app                                | CSS modules                          | React, TypeScript, rtk  <br>Работа с формами | vite   |
-| CRM (в разработке)                      | styled-components                                     |                                              |        |
+| Проект                                                  | Верстка                              | Программирование                   | Прочее |
+|---------------------------------------------------------|--------------------------------------|------------------------------------| ------ |
+| [Визитка](./projects/landing)                           | HTML, CSS, адаптивная верстка, Figma |                                    |        |
+| [Крестики-нолики](./projects/tic-tac-toe)               | БЭМ                                  | Основы JS, Работа с DOM            |        |
+| [Камень-ножницы-бумага](./projects/rock-paper-scissors) | tailwind                             | JS, React, redux                   | vite   |
+| [TODO app](./projects/todo-app)                         | CSS modules                          | React, TypeScript, rtk  <br> формы | vite   |
+| CRM (в разработке)                                      | styled-components                                     |                                    |        |
