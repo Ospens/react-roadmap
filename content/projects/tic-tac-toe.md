@@ -35,15 +35,6 @@ weight = 2
 - Книга [“Грокаем Алгоритмы”](https://t.me/js_is_easy/51). Про алгоритмы и решение задач простым языком. Для освоения основ хватит первых 4х глав.
 - Не забываем про [Доку](https://doka.guide/js)
 
-
-### Дополнительные материалы
-В качестве тренажера и закрепления теории по JavaScript рекомендую решить следующих задачи:
-  - [Перевод градусов Цельсия в градусы Кельвина и Фаренгейта](https://leetcode.com/problems/convert-the-temperature/description/)
-  - [Сортировка людей](https://leetcode.com/problems/sort-the-people/description/)
-  - [Изменение IP адреса](https://leetcode.com/problems/defanging-an-ip-address/description/)
-  - [Количество пожилых пассажиров](https://leetcode.com/problems/number-of-senior-citizens/description/)
-  - [Драгоценности и камни](https://leetcode.com/problems/jewels-and-stones/description/)
-
 ## Техническое задание
 > В правом верхнем углу Figma есть кнопка Play, по нажатию на которую можно запустить интерактивный макет.
 
@@ -59,7 +50,14 @@ weight = 2
 
 ## Заметки
 
-1. Рекомендую начать с верстки. Сначала сделать статически элементы с помощью HTML/CSS, а после этого добавлять к ним логику на JS.
+1. Рекомендую начать с верстки. Сначала сделать статически элементы с помощью HTML/CSS, а после этого добавлять к ним логику на JS. 
+2. В качестве тренажера и закрепления теории по JavaScript рекомендую решить следующих задачи:
+- [Перевод градусов Цельсия в градусы Кельвина и Фаренгейта](https://leetcode.com/problems/convert-the-temperature/description/)
+- [Сортировка людей](https://leetcode.com/problems/sort-the-people/description/)
+- [Изменение IP адреса](https://leetcode.com/problems/defanging-an-ip-address/description/)
+- [Количество пожилых пассажиров](https://leetcode.com/problems/number-of-senior-citizens/description/)
+- [Драгоценности и камни](https://leetcode.com/problems/jewels-and-stones/description/)
+
 
 ## Обратная связь и контакты
 
