@@ -147,4 +147,4 @@ weight = 5
 
 ## Обратная связь и контакты
 
-По любым вопросам пиши мне, [@i_urKing](https://t.me/i_urKing), и подписывайся на мой канал [@js_is_easy](https://t.me/+jsgZ3_UEcoBlNjgy)
+По любым вопросам пиши мне, [@i_urKing](https://t.me/i_urKing), и подписывайся на канал [@js_is_easy](https://t.me/+jsgZ3_UEcoBlNjgy)
