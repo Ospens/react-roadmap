@@ -24,16 +24,19 @@ weight = 2
 
 > Чем больше ты освоишь сейчас, тем будет проще в будущем!
 
-- [Основы программирования для начинающих](https://youtu.be/cot8q5pftm8?si=KmVOcEi-N2MsGjFg). Цикл из 5 уроков.
-- [JavaScript для начинающих](https://www.youtube.com/watch?v=HetL0ETbN6Y&ab_channel=TimurShemsedinov)
+- [Основы программирования для начинающих](https://youtu.be/cot8q5pftm8?si=KmVOcEi-N2MsGjFg). Цикл из 5 уроков. Смотрим, вникаем какие бывают конструкции и как они работают
+- Книга [“Грокаем Алгоритмы”](https://t.me/js_is_easy/51). Про алгоритмы и решение задач простым языком
+- [JavaScript для начинающих](https://www.youtube.com/watch?v=HetL0ETbN6Y&ab_channel=TimurShemsedinov) - смотрим и повторяем за автором
+- [БЭМ](https://ru.bem.info/methodology/) - подход к более осознанному наименованию CSS классов. Много примеров с объяснениями
+***
 - [https://learn.javascript.ru/](https://learn.javascript.ru/). Тоже самое, что в видео, но текстом.
     - **Часть 1. Язык JavaScript.** Для выполнения этого задания будет достаточно первых пяти глав, остальные пригодятся позже.
     - **Часть 2. Браузер: документ, события, интерфейсы.** Для выполнения задания будет достаточно первой главы.
-- [БЭМ](https://ru.bem.info/methodology/) документация
-- [Как добавить JavaScript в HTML](https://timeweb.cloud/tutorials/javascript/kak-dobavit-javascript-v-html)
-- [Гайд по инструментам разработчика в браузере](https://practicum.yandex.ru/blog/devtools-instrumenty-razrabotchika/)
-- Книга [“Грокаем Алгоритмы”](https://t.me/js_is_easy/51). Про алгоритмы и решение задач простым языком. Для освоения основ хватит первых 4х глав.
-- Не забываем про [Доку](https://doka.guide/js)
+- Не забывай про [Доку](https://doka.guide/js)
+***
+- [Как добавить JavaScript в HTML](https://timeweb.cloud/tutorials/javascript/kak-dobavit-javascript-v-html) - шпаргалка, если вдруг забыл прошлый проект
+- [Инструменты разработчика в браузере](https://youtu.be/rIq0nXSm2Ek?si=7lAGQfUUrWPY4pPv). Продолжаем просмотр видео из прошлого проекта
+- [Десять основных соглашений об именовании JavaScript](https://www.dev-notes.ru/articles/javascript/ten-js-naming-conventions-every-developer-should-know/) - в языках программирования, как и в человеческих есть как правила так и рекомендации. Соглашения это больше про рекомендации. Когда в тексте начинается новое предложение мы ожидаем что первая буква будет заглавной. В программировании есть похожие ситуации, например, локальные константы именуются в **camelCase**.  
 
 ## Техническое задание
 > В правом верхнем углу Figma есть кнопка Play, по нажатию на которую можно запустить интерактивный макет.
@@ -61,4 +64,4 @@ weight = 2
 
 ## Обратная связь и контакты
 
-По любым вопросам пиши мне, [@i_urKing](https://t.me/i_urKing), и подписывайся на канал [@js_is_easy](https://t.me/+jsgZ3_UEcoBlNjgy)
+По любым вопросам пиши в чат [Испытания багами](https://t.me/+OMJRtJ9aNJYyMWUy), и подписывайся на канал [@js_is_easy](https://t.me/+jsgZ3_UEcoBlNjgy)
