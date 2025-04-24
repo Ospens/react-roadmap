@@ -23,28 +23,27 @@ weight = 1
 
 ## Материалы для подготовки
 
-
-> Самостоятельный поиск других источников приветствуется
 - **Редактор кода** - это блокнот на стероидах. Я предлагаю использовать один из двух популярных. Для этого проекта достаточно знать как создать файл, но я приложил развернутые инструкции по настройке.
   - **Webstorm**. Просто скачиваешь и работаешь, не требует доп. настроек. Обзор редактора [тут](https://youtu.be/WlBrhM1_t5k?si=X80WIAjujF-bC2TH). Есть два варианты скачивания
     - [Официальный](https://www.jetbrains.com/webstorm/download/#section=mac). Для доступа из РФ нужен VPN.
     - [Альтернативный с моего облака](https://disk.yandex.ru/d/QH3DzNzdouDEnQ). Просто скачай версию для своей ОС
   - [VS Code](https://code.visualstudio.com/). Для тех, кто любит много настроек. В этом проекте можно сразу приступить к работе, в последующих понадобится ставить плагины. Инструкция по настройке [тут](https://youtu.be/MXl_fl25udE?si=67R0bHsH0VYGQhsy) 
 ***
-- [Основы HTML5. Полный курс](https://www.youtube.com/watch?v=_J6hMLsscOo&ab_channel=webDev). Смотрим, повторяем за автором, учим HTML теги
-- [Основы CSS3. Полный курс](https://youtu.be/1X8FNuy32ZM?si=2lwL9T8n5jP17yHZ). Смотрим, повторяем за автором, учим CSS свойства
-- [CSS Flexbox. Полный курс](https://youtu.be/XXlw7TUxRVY?si=7R85E3whNLykA0kc). Смотрим, повторяем за автором, учим flexbox свойства
-- [Тренажер по Flexbox](https://flexboxfroggy.com/). После просмотра трех видосов выше идем тренироваться на простых задачах
-- [Шпаргалка по Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/). Вместо того чтобы пересматривать видос по flexbox. 
-- [HTML](https://doka.guide/html/) и [CSS](https://doka.guide/css/) - документация на русском. Заучивать и читать залпом нет смысла. Используем для навигации по пройденному материалу и для расширения кругозора читаем пару-тройку тем в день.
-- [Инструменты разработчика в браузере](https://youtu.be/rIq0nXSm2Ek?si=7lAGQfUUrWPY4pPv). Для этого проекта актуальна только вкладка elements, т.е. до 8 минуты. 
-- [Figma для разработчиков](https://youtu.be/DWicd2qo2pk?si=52rR6mjnlI4hxxtw). Гайд о том как пользоваться макетом из ТЗ.
-- [Как проверить адаптивность сайта](https://www.unisender.com/ru/blog/kak-proverit-adaptivnost-mobilnost/). Интересует только первый раздел с Google Chrome
+- [🧑‍💻Основы HTML и CSS](https://htmlacademy.ru/courses/297) - короткий практически курс без смс и регистрации
+- [📹 Основы HTML5. Полный курс](https://www.youtube.com/watch?v=_J6hMLsscOo&ab_channel=webDev). Смотрим, повторяем за автором, учим HTML теги. Автор использует редактор кода **Атом**, но я рекомендую **Webstorm** или **VS Code**, т.к. почти все дальнейшие материалы будут использовать их, а еще Атом не столь популярен и в случае проблем с ним поиск помощи может занять какое-то время
+- [📹 Основы CSS3. Полный курс](https://youtu.be/1X8FNuy32ZM?si=2lwL9T8n5jP17yHZ). Смотрим, повторяем за автором, учим CSS свойства
+- [📹 CSS Flexbox. Полный курс](https://youtu.be/XXlw7TUxRVY?si=7R85E3whNLykA0kc). Смотрим, повторяем за автором, учим flexbox свойства
+- [🧑‍💻Тренажер по Flexbox](https://flexboxfroggy.com/). После просмотра трех видосов выше идем тренироваться на простых задачах
+- [📝 Шпаргалка по Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/). Вместо того чтобы пересматривать видос по flexbox. 
+- 📝 Документация [HTML](https://doka.guide/html/) и [CSS](https://doka.guide/css/) на русском. Заучивать и читать залпом нет смысла. Используем для навигации по пройденному материалу и для расширения кругозора читаем пару-тройку тем в день.
+- [📹 Инструменты разработчика в браузере](https://youtu.be/rIq0nXSm2Ek?si=7lAGQfUUrWPY4pPv). Для этого проекта актуальна только вкладка elements, т.е. до 8 минуты. 
+- [📹 Figma для разработчиков](https://youtu.be/DWicd2qo2pk?si=52rR6mjnlI4hxxtw). Гайд о том как пользоваться макетом из ТЗ.
+- [📝 Как проверить адаптивность сайта](https://www.unisender.com/ru/blog/kak-proverit-adaptivnost-mobilnost/). Интересует только первый раздел с Google Chrome
 ***
-- [Теория Git](https://youtu.be/cEO4601BitU?si=lwwcgR8FYLi9Hsnn). К материалам по гит можно вернуться в конце проекта, он понадобится в конце задания.
-- [Что такое GitHub?](https://www.youtube.com/watch?v=kJur88PGMtM)
-- [Как выложить проект на GitHub?](https://proweb63.ru/help/git/create-github-repo)
-- [Практика ГИТ](https://learngitbranching.js.org/?locale=ru_RU)
+- [📹 Теория Git](https://youtu.be/cEO4601BitU?si=lwwcgR8FYLi9Hsnn). К материалам по гит можно вернуться в конце проекта, он понадобится в конце задания.
+- [📹 Что такое GitHub?](https://www.youtube.com/watch?v=kJur88PGMtM)
+- [📝 Как выложить проект на GitHub?](https://proweb63.ru/help/git/create-github-repo)
+- [🧑‍💻 Практика ГИТ](https://learngitbranching.js.org/?locale=ru_RU)
 
 ## Техническое задание
 
@@ -66,6 +65,22 @@ weight = 1
 - https://github.com/fenyagg/roadmap/
 - https://github.com/SergeyLuzik/profile
 - https://github.com/Ospens/hero-resume
+
+### TODO список
+> Секция в разработке — буду рад вашей обратной связи!
+
+Задания построены так, чтобы вы двигались маленькими шагами и сразу видели результат. Это снижает тревожность, помогает не перегореть и держать фокус.
+Эти задачи можно выписать в заметки или напоминания и отмечать, чтобы легче видеть прогресс
+
+1. Пройти курс [Основы HTML и CSS](https://htmlacademy.ru/courses/297). _Уроки уже разбиты по шагам. Просто пройти последовательно_ 
+2. Установить редактор кода VS Code или Webstorm
+3. Посмотреть вводную теорию [Основы HTML и CSS: 0:00-28:50](https://htmlacademy.ru/courses/297). _В этом шаге не нужно повторять за автором. Валидатор W3C не пригодится, редакторы кода делают такую же валидацию_
+4. [Текст: 28:50-38:31](https://youtu.be/_J6hMLsscOo?si=ze8UnmlS3JtQ8do4&t=1733). Создать новый файл с названием "text.html". Перенести код раздела себе в редактор. Посмотреть как выглядит в браузере
+5. [Списки: 38:31-43:54](https://youtu.be/_J6hMLsscOo?si=cfeP9gIdl_bxpU3F&t=2311). Создать новый файл с названием "list.html". Перенести код раздела себе в редактор. Посмотреть как выглядит в браузере
+6. [Картинки: 43:54-49:44](https://youtu.be/_J6hMLsscOo?si=r8Da9IilOKBbAEdm&t=2635). Создать новый файл с названием "images.html". Перенести код раздела себе в редактор. Посмотреть как выглядит в браузере
+7. [Ссылки и кнопки: 57:24-1:03:56](https://youtu.be/_J6hMLsscOo?si=wkajKp8WH7A3wATd&t=3445). Создать новый файл с названием "links.html". Перенести код раздела себе в редактор. Посмотреть как выглядит в браузере
+8. [Ссылки и кнопки: 1:10:18-1:17:48](https://youtu.be/_J6hMLsscOo?si=JSq_ZiAWUOcEBmyB&t=4219). Создать новый файл с названием "layouts.html". Перенести код раздела себе в редактор. Посмотреть как выглядит в браузере
+9. [Общие и полезные атрибуты: 1:49:15](https://www.youtube.com/watch?v=_J6hMLsscOo&t=6555s). Посмотреть теорию
 
 ## Обратная связь и контакты
 
