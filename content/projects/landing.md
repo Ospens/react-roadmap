@@ -81,6 +81,25 @@ weight = 1
 7. [Ссылки и кнопки: 57:24-1:03:56](https://youtu.be/_J6hMLsscOo?si=wkajKp8WH7A3wATd&t=3445). Создать новый файл с названием "links.html". Перенести код раздела себе в редактор. Посмотреть как выглядит в браузере
 8. [Ссылки и кнопки: 1:10:18-1:17:48](https://youtu.be/_J6hMLsscOo?si=JSq_ZiAWUOcEBmyB&t=4219). Создать новый файл с названием "layouts.html". Перенести код раздела себе в редактор. Посмотреть как выглядит в браузере
 9. [Общие и полезные атрибуты: 1:49:15](https://www.youtube.com/watch?v=_J6hMLsscOo&t=6555s). Посмотреть теорию
+10. Посмотреть теорию [Основы GIT](https://youtu.be/cEO4601BitU?si=lwwcgR8FYLi9Hsnn) и [Что такое GitHub?](https://www.youtube.com/watch?v=kJur88PGMtM)
+11. [Установить GIT](https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-Git). Если есть вопросы, то вот видео с [подробными шагами и настройкой для Windows](https://youtu.be/GsG5roSGha0?si=u7ZPrcc_GsgKOoqc) 
+12. Посмотреть [введение в CSS3](https://youtu.be/8pQKDVRc0T8?si=z74vK5_xW3LkdJZ_)
+13. Изучить [Базовый синтаксис и применение стилей](https://youtu.be/qxAnaoPI8cE?si=vpfu1uLaSYFHaGIr)
+    1. Создать папку frontend на рабочем столе 
+    2. Открыть папки и открыть в ней Консоль. Те же самые действия как в [п.11 на 8 минуте](https://youtu.be/GsG5roSGha0?si=ku4tP5loBG9QTjoU&t=474)
+    3. Выполнить команду `git clone https://github.com/YauhenKavalchuk/css3-basics.git`
+    4. Перейти в папку с проектом командой `cd css3-basics`
+    5. Переключится на ветку урока командой `git checkout lesson_01`
+    6. Открыть папку **css3-basics** в редакторе кода
+    7. Посмотреть видео и повторить за автором
+    8. Сделать коммит своих изменений: `git add .` потом `git commit -m 'my changes'`
+14. Изучить [Простые селекторы](https://youtu.be/vnmfn31G988?si=mMshNiIds47Ep0kv)
+    1. Переключится на ветку второго урока. Можно использовать способ как в п 13.5, а можно посредством IDE: [пример WebStorm](/react-roadmap/images/landing/branches-webstorm.png) и [пример VS Code](/react-roadmap/images/landing/branches-vscode.png)
+    2. Посмотреть видео и повторить за автором
+    3. Сделать коммит изменений аналогично п 13.8
+15. Изучить [Составные селекторы](https://youtu.be/fyI_K_Oya74?si=sXRGb_PXC4UtcguN). Шаги выполнения аналогично пункту выше
+16. Изучить [Псевдоэлементы и псевдоклассы](https://youtu.be/C40ePbYJxmM?si=AgAVUq6Iwz8RJkLC). Шаги выполнения аналогично пункту выше
+17. Изучить [Каскадность и наследование](https://youtu.be/Y8UFzOoKkvQ?si=7M95sa6zqiknYDgC). Шаги выполнения аналогично пункту выше
 
 ## Обратная связь и контакты
 
