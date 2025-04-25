@@ -28,6 +28,7 @@ weight = 5
     - [React Query за 10 минут](https://youtu.be/4-SOv7eTfoQ?si=XwSh3n7IkvAmgAOk)
     - react-query не является заменой локальным менеджерам состояний. Хоть в этой задаче бОльшая часть данных будет храниться на сервере, локальный стейт все же нужен. Выбор за тобой: redux-toolkit или классический redux
   - [Пять простых шагов для понимания JSON Web Tokens (JWT)](https://habr.com/ru/articles/340146/)
+  - [Авторизация на JWT токенах](https://youtu.be/YhuTCHGnduQ?si=aptorIBUH6t3WcFn) - цикл коротких видео
   - [Как сделать приватные роуты в React](https://habr.com/ru/articles/732432/). Имейте в виду, что в этом проекте мы не используем MobX и create-react-app, но статья от этого не является менее полезной.
 - Postman - Это инструмент для удобной работы с API за пределами приложения
   - [Основы Postman](https://habr.com/ru/companies/maxilect/articles/596789/)
