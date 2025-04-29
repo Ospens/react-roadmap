@@ -138,6 +138,7 @@ weight = 1
 9. Посмотреть и повторить за автором [Определение порядка элементов (Order)](https://youtu.be/o_ozA-YMttU?si=YKHKidqh_HOGDUvl)
 10. Посмотреть и повторить за автором [Вложенность. Обёртка элементов с размерами (Nesting. Flex-basis & Flex-wrap)](https://youtu.be/ar1F5IwBeSc?si=3CSjO4D3vdZNbkzq)
 11. Посмотреть и повторить за автором [Практические примеры использования Flexbox](https://youtu.be/GGiHxIOmPaE?si=1almZUGid6-9YI4f)
+12. Помочь лягушкам найти кувшинки: [Flexbox Froggy](https://flexboxfroggy.com/)
 
 
 ## Обратная связь и контакты
