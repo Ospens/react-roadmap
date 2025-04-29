@@ -94,7 +94,8 @@ weight = 1
 #### CSS
 > Шаги выполнения пункта 3 и дальше аналогичны инструкции в пункте 2
 
-1. Изучить [Базовый синтаксис и применение стилей](https://youtu.be/qxAnaoPI8cE?si=vpfu1uLaSYFHaGIr)
+1. Изучить подробнее [инструменты разработчика (до 8 минуты)](https://youtu.be/rIq0nXSm2Ek?si=fTgylSyy2Bo-0bu1&t=90)
+2. Изучить [Базовый синтаксис и применение стилей](https://youtu.be/qxAnaoPI8cE?si=vpfu1uLaSYFHaGIr)
     1. Создать папку frontend на рабочем столе 
     2. Открыть папки и открыть в ней Консоль. Те же самые действия как в [п.11 на 8 минуте](https://youtu.be/GsG5roSGha0?si=ku4tP5loBG9QTjoU&t=474)
     3. Выполнить команду `git clone https://github.com/YauhenKavalchuk/css3-basics.git`
@@ -103,28 +104,28 @@ weight = 1
     6. Открыть папку **css3-basics** в редакторе кода
     7. Посмотреть видео и повторить за автором
     8. Сделать коммит своих изменений: `git add .` потом `git commit -m 'my changes'`
-2. Изучить [Простые селекторы](https://youtu.be/vnmfn31G988?si=mMshNiIds47Ep0kv)
+3. Изучить [Простые селекторы](https://youtu.be/vnmfn31G988?si=mMshNiIds47Ep0kv)
     1. Переключится на ветку урока. Можно использовать способ как в п 13.5, а можно посредством IDE: [пример WebStorm](/react-roadmap/images/landing/branches-webstorm.png) и [пример VS Code](/react-roadmap/images/landing/branches-vscode.png)
     2. Посмотреть видео и повторить за автором
     3. Сделать коммит своих изменений: `git add .` потом `git commit -m 'название урока'`
-3. Посмотреть и повторить за автором [Составные селекторы](https://youtu.be/fyI_K_Oya74?si=sXRGb_PXC4UtcguN)
-4. Посмотреть и повторить за автором [Псевдоэлементы и псевдоклассы](https://youtu.be/C40ePbYJxmM?si=AgAVUq6Iwz8RJkLC)
-5. Посмотреть и повторить за автором [Каскадность и наследование и сброс стилей браузера](https://youtu.be/Y8UFzOoKkvQ?si=7M95sa6zqiknYDgC)
-6. Посмотреть и повторить за автором [Блочную модель и отступы](https://youtu.be/1jvIi039-i4?si=S40Su-Xme934vQZw)
-7. Посмотреть и повторить за автором [Позиционирование и размеры](https://youtu.be/iydD985acAc?si=B6uMOTZOx_qcnikJ)
-8. Посмотреть и повторить за автором [Единицы, переполнение и уровни элементов](https://youtu.be/pEdt0afL2-o?si=mSwebeVSPGLsww0_)
-9. Посмотреть и повторить за автором [Шрифты и текст](https://youtu.be/TAB8pVUKiI4?si=a1-1fvKtl9mG36hs)
-10. Посмотреть и повторить за автором [Границы и тени](https://youtu.be/dAHu16pgBrg?si=ofP1z1YHFH7EWEmX)
-11. Посмотреть и повторить за автором [Скругление углов, списки и цвета](https://youtu.be/zaJh6CymejM?si=f6AM7eK_6WDd7oFd)
-12. Посмотреть и повторить за автором [Фон](https://youtu.be/5k-x7FUnDuE?si=WtgTvMvngEBjg8gw)
-13. Посмотреть и повторить за автором [Градиенты](https://youtu.be/8mzap9y6ECE?si=eHKFMfscLt5oGTkN)
-14. Посмотреть и повторить за автором [Трансформации](https://youtu.be/vbdw3iHzkFo?si=t1uXuEVWHDBGHPq3)
-15. Посмотреть и повторить за автором [Плавные переходы](https://youtu.be/hwWIm6DSSoE?si=0fzfXoaHkohIBORi)
-16. Посмотреть и повторить за автором [Анимации](https://youtu.be/XG5JulRHSV8?si=jdlf_U6Ok9YCQigj)
-17. Посмотреть и повторить за автором [Таблицы и курсор](https://youtu.be/Y5MwssNWetI?si=UZD5AiK_u9sjknA-)
-18. Посмотреть и повторить за автором [Текстовые эффекты и многоколоночный текст](https://youtu.be/6sc-gmz_MYQ?si=HCeYQyj1fvDsZUYB)
-19. Посмотреть и повторить за автором [Медиазапросы и Devices toolbar в инструментах разработчика](https://youtu.be/lv47xClJolw?si=B6eEe0fmRGwc7iWY)
-20. Посмотреть и повторить за автором [Стилизацию плейсхолдера и скролла, CSS-спрайты](https://youtu.be/_eO1urQ71Lw?si=AIT2OdwD3F3Leok5)
+4. Посмотреть и повторить за автором [Составные селекторы](https://youtu.be/fyI_K_Oya74?si=sXRGb_PXC4UtcguN)
+5. Посмотреть и повторить за автором [Псевдоэлементы и псевдоклассы](https://youtu.be/C40ePbYJxmM?si=AgAVUq6Iwz8RJkLC)
+6. Посмотреть и повторить за автором [Каскадность и наследование и сброс стилей браузера](https://youtu.be/Y8UFzOoKkvQ?si=7M95sa6zqiknYDgC)
+7. Посмотреть и повторить за автором [Блочную модель и отступы](https://youtu.be/1jvIi039-i4?si=S40Su-Xme934vQZw)
+8. Посмотреть и повторить за автором [Позиционирование и размеры](https://youtu.be/iydD985acAc?si=B6uMOTZOx_qcnikJ)
+9. Посмотреть и повторить за автором [Единицы, переполнение и уровни элементов](https://youtu.be/pEdt0afL2-o?si=mSwebeVSPGLsww0_)
+10. Посмотреть и повторить за автором [Шрифты и текст](https://youtu.be/TAB8pVUKiI4?si=a1-1fvKtl9mG36hs)
+11. Посмотреть и повторить за автором [Границы и тени](https://youtu.be/dAHu16pgBrg?si=ofP1z1YHFH7EWEmX)
+12. Посмотреть и повторить за автором [Скругление углов, списки и цвета](https://youtu.be/zaJh6CymejM?si=f6AM7eK_6WDd7oFd)
+13. Посмотреть и повторить за автором [Фон](https://youtu.be/5k-x7FUnDuE?si=WtgTvMvngEBjg8gw)
+14. Посмотреть и повторить за автором [Градиенты](https://youtu.be/8mzap9y6ECE?si=eHKFMfscLt5oGTkN)
+15. Посмотреть и повторить за автором [Трансформации](https://youtu.be/vbdw3iHzkFo?si=t1uXuEVWHDBGHPq3)
+16. Посмотреть и повторить за автором [Плавные переходы](https://youtu.be/hwWIm6DSSoE?si=0fzfXoaHkohIBORi)
+17. Посмотреть и повторить за автором [Анимации](https://youtu.be/XG5JulRHSV8?si=jdlf_U6Ok9YCQigj)
+18. Посмотреть и повторить за автором [Таблицы и курсор](https://youtu.be/Y5MwssNWetI?si=UZD5AiK_u9sjknA-)
+19. Посмотреть и повторить за автором [Текстовые эффекты и многоколоночный текст](https://youtu.be/6sc-gmz_MYQ?si=HCeYQyj1fvDsZUYB)
+20. Посмотреть и повторить за автором [Медиазапросы и Devices toolbar в инструментах разработчика](https://youtu.be/lv47xClJolw?si=B6eEe0fmRGwc7iWY)
+21. Посмотреть и повторить за автором [Стилизацию плейсхолдера и скролла, CSS-спрайты](https://youtu.be/_eO1urQ71Lw?si=AIT2OdwD3F3Leok5)
 
 #### CSS Flexbox
 1. Посмотреть [Введение](https://youtu.be/O-ytfplFQ3c?si=qlPnynHKlOXvEvw_) и [Основные понятия](https://youtu.be/9MxBkY2_WNA?si=19tfKJaAZ07ggWkE)
