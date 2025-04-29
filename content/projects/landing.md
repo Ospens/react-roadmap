@@ -75,13 +75,15 @@ weight = 1
 #### HTML
 1. Пройти курс [Основы HTML и CSS](https://htmlacademy.ru/courses/297). _Уроки уже разбиты по шагам. Просто пройти последовательно_ 
 2. Установить редактор кода VS Code или Webstorm
-3. Посмотреть вводную теорию [Основы HTML и CSS: 0:00-28:50](https://htmlacademy.ru/courses/297). _В этом шаге не нужно повторять за автором. Валидатор W3C не пригодится, редакторы кода делают такую же валидацию_
-4. [Текст: 28:50-38:31](https://youtu.be/_J6hMLsscOo?si=ze8UnmlS3JtQ8do4&t=1733). Создать новый файл с названием "text.html". Перенести код раздела себе в редактор. Посмотреть как выглядит в браузере
-5. [Списки: 38:31-43:54](https://youtu.be/_J6hMLsscOo?si=cfeP9gIdl_bxpU3F&t=2311). Создать новый файл с названием "list.html". Перенести код раздела себе в редактор. Посмотреть как выглядит в браузере
-6. [Картинки: 43:54-49:44](https://youtu.be/_J6hMLsscOo?si=r8Da9IilOKBbAEdm&t=2635). Создать новый файл с названием "images.html". Перенести код раздела себе в редактор. Посмотреть как выглядит в браузере
-7. [Ссылки и кнопки: 57:24-1:03:56](https://youtu.be/_J6hMLsscOo?si=wkajKp8WH7A3wATd&t=3445). Создать новый файл с названием "links.html". Перенести код раздела себе в редактор. Посмотреть как выглядит в браузере
-8. [Ссылки и кнопки: 1:10:18-1:17:48](https://youtu.be/_J6hMLsscOo?si=JSq_ZiAWUOcEBmyB&t=4219). Создать новый файл с названием "layouts.html". Перенести код раздела себе в редактор. Посмотреть как выглядит в браузере
-9. [Общие и полезные атрибуты: 1:49:15](https://www.youtube.com/watch?v=_J6hMLsscOo&t=6555s). Посмотреть теорию
+3. [Введение](https://youtu.be/NUtloXE1L9U?si=jsGKRRukuKw2iI8Y) и [Базовая структура HTML документа](https://youtu.be/01QJmn0vDxs?si=6A1yMS05ffOZaycT). Посмотреть и повторить за автором
+4. Посмотреть теорию. _В этом шаге не нужно повторять за автором._
+   - [Мета-данные и внешние импорты (Meta Data & External Imports)](https://youtu.be/RTqHlz8VsQA?si=qkcHJBvUyFEDfjmU)
+   - [Валидация, семантика и доступность](https://youtu.be/6-9m0I19_Hc?si=9acefaor7O3t8wuY)
+5. [Текст](https://youtu.be/xWxGrrcWbrk?si=nhXd3SdtmYhF4YGg). Создать новый файл с названием "text.html". Перенести код раздела себе в редактор. Посмотреть как выглядит в браузере
+6. [Списки](https://youtu.be/xXCOXsBzm48?si=GRowUyRGWVucdczx). Создать новый файл с названием "list.html". Перенести код раздела себе в редактор. Посмотреть как выглядит в браузере
+7. [Картинки](https://youtu.be/nZ8XPmXn2Jk?si=EEHvbu4QeKw1jiAS). Создать новый файл с названием "images.html". Перенести код раздела себе в редактор. Посмотреть как выглядит в браузере
+8. [Ссылки и кнопки](https://youtu.be/FA0jjOjTChA?si=vdhofDiGirAsU8MA). Создать новый файл с названием "links.html". Перенести код раздела себе в редактор. Посмотреть как выглядит в браузере
+9. [Глобальная структура сайта](https://youtu.be/ylCstIgYd54?si=V0tPBaP6gG-RbCPA). Создать новый файл с названием "layouts.html". Перенести код раздела себе в редактор. Посмотреть как выглядит в браузере
 
 #### Git
 1. Посмотреть теорию [Основы GIT](https://youtu.be/cEO4601BitU?si=lwwcgR8FYLi9Hsnn) и [Что такое GitHub?](https://www.youtube.com/watch?v=kJur88PGMtM)
@@ -89,6 +91,8 @@ weight = 1
 3. Посмотреть [введение в CSS3](https://youtu.be/8pQKDVRc0T8?si=z74vK5_xW3LkdJZ_)
 
 #### CSS
+> Шаги выполнения пункта 3 и дальше аналогичны инструкции в пункте 2
+
 1. Изучить [Базовый синтаксис и применение стилей](https://youtu.be/qxAnaoPI8cE?si=vpfu1uLaSYFHaGIr)
     1. Создать папку frontend на рабочем столе 
     2. Открыть папки и открыть в ней Консоль. Те же самые действия как в [п.11 на 8 минуте](https://youtu.be/GsG5roSGha0?si=ku4tP5loBG9QTjoU&t=474)
@@ -99,27 +103,41 @@ weight = 1
     7. Посмотреть видео и повторить за автором
     8. Сделать коммит своих изменений: `git add .` потом `git commit -m 'my changes'`
 2. Изучить [Простые селекторы](https://youtu.be/vnmfn31G988?si=mMshNiIds47Ep0kv)
-    1. Переключится на ветку второго урока. Можно использовать способ как в п 13.5, а можно посредством IDE: [пример WebStorm](/react-roadmap/images/landing/branches-webstorm.png) и [пример VS Code](/react-roadmap/images/landing/branches-vscode.png)
+    1. Переключится на ветку урока. Можно использовать способ как в п 13.5, а можно посредством IDE: [пример WebStorm](/react-roadmap/images/landing/branches-webstorm.png) и [пример VS Code](/react-roadmap/images/landing/branches-vscode.png)
     2. Посмотреть видео и повторить за автором
-    3. Сделать коммит изменений аналогично п 13.8
-3. Изучить [Составные селекторы](https://youtu.be/fyI_K_Oya74?si=sXRGb_PXC4UtcguN). Шаги выполнения аналогично пункту выше
-4. Изучить [Псевдоэлементы и псевдоклассы](https://youtu.be/C40ePbYJxmM?si=AgAVUq6Iwz8RJkLC). Шаги выполнения аналогично пункту выше
-5. Изучить [Каскадность и наследование и сброс стилей браузера](https://youtu.be/Y8UFzOoKkvQ?si=7M95sa6zqiknYDgC). Шаги выполнения аналогично пункту выше
-6. Изучить [Блочную модель и отступы](https://youtu.be/1jvIi039-i4?si=S40Su-Xme934vQZw). Шаги выполнения аналогично пункту выше
-7. Изучить [Позиционирование и размеры](https://youtu.be/iydD985acAc?si=B6uMOTZOx_qcnikJ). Шаги выполнения аналогично пункту выше
-8. Изучить [Единицы, переполнение и уровни элементов](https://youtu.be/pEdt0afL2-o?si=mSwebeVSPGLsww0_). Шаги выполнения аналогично пункту выше
-9. Изучить [Шрифты и текст](https://youtu.be/TAB8pVUKiI4?si=a1-1fvKtl9mG36hs). Шаги выполнения аналогично пункту выше
-10. Изучить [Границы и тени](https://youtu.be/dAHu16pgBrg?si=ofP1z1YHFH7EWEmX). Шаги выполнения аналогично пункту выше
-11. Изучить [Скругление углов, списки и цвета](https://youtu.be/zaJh6CymejM?si=f6AM7eK_6WDd7oFd). Шаги выполнения аналогично пункту выше
-12. Изучить [Фон](https://youtu.be/5k-x7FUnDuE?si=WtgTvMvngEBjg8gw). Шаги выполнения аналогично пункту выше
-13. Изучить [Градиенты](https://youtu.be/8mzap9y6ECE?si=eHKFMfscLt5oGTkN). Шаги выполнения аналогично пункту выше
-14. Изучить [Трансформации](https://youtu.be/vbdw3iHzkFo?si=t1uXuEVWHDBGHPq3). Шаги выполнения аналогично пункту выше
-15. Изучить [Плавные переходы](https://youtu.be/hwWIm6DSSoE?si=0fzfXoaHkohIBORi). Шаги выполнения аналогично пункту выше
-16. Изучить [Анимации](https://youtu.be/XG5JulRHSV8?si=jdlf_U6Ok9YCQigj). Шаги выполнения аналогично пункту выше
-17. Изучить [Таблицы и курсор](https://youtu.be/Y5MwssNWetI?si=UZD5AiK_u9sjknA-). Шаги выполнения аналогично пункту выше
-18. Изучить [Текстовые эффекты и многоколоночный текст](https://youtu.be/6sc-gmz_MYQ?si=HCeYQyj1fvDsZUYB). Шаги выполнения аналогично пункту выше
-19. Изучить [Медиазапросы и Devices toolbar в инструментах разработчика](https://youtu.be/lv47xClJolw?si=B6eEe0fmRGwc7iWY). Шаги выполнения аналогично пункту выше
-20. Изучить [Стилизацию плейсхолдера и скролла, CSS-спрайты](https://youtu.be/_eO1urQ71Lw?si=AIT2OdwD3F3Leok5). Шаги выполнения аналогично пункту выше
+    3. Сделать коммит своих изменений: `git add .` потом `git commit -m 'название урока'`
+3. Посмотреть и повторить за автором [Составные селекторы](https://youtu.be/fyI_K_Oya74?si=sXRGb_PXC4UtcguN)
+4. Посмотреть и повторить за автором [Псевдоэлементы и псевдоклассы](https://youtu.be/C40ePbYJxmM?si=AgAVUq6Iwz8RJkLC)
+5. Посмотреть и повторить за автором [Каскадность и наследование и сброс стилей браузера](https://youtu.be/Y8UFzOoKkvQ?si=7M95sa6zqiknYDgC)
+6. Посмотреть и повторить за автором [Блочную модель и отступы](https://youtu.be/1jvIi039-i4?si=S40Su-Xme934vQZw)
+7. Посмотреть и повторить за автором [Позиционирование и размеры](https://youtu.be/iydD985acAc?si=B6uMOTZOx_qcnikJ)
+8. Посмотреть и повторить за автором [Единицы, переполнение и уровни элементов](https://youtu.be/pEdt0afL2-o?si=mSwebeVSPGLsww0_)
+9. Посмотреть и повторить за автором [Шрифты и текст](https://youtu.be/TAB8pVUKiI4?si=a1-1fvKtl9mG36hs)
+10. Посмотреть и повторить за автором [Границы и тени](https://youtu.be/dAHu16pgBrg?si=ofP1z1YHFH7EWEmX)
+11. Посмотреть и повторить за автором [Скругление углов, списки и цвета](https://youtu.be/zaJh6CymejM?si=f6AM7eK_6WDd7oFd)
+12. Посмотреть и повторить за автором [Фон](https://youtu.be/5k-x7FUnDuE?si=WtgTvMvngEBjg8gw)
+13. Посмотреть и повторить за автором [Градиенты](https://youtu.be/8mzap9y6ECE?si=eHKFMfscLt5oGTkN)
+14. Посмотреть и повторить за автором [Трансформации](https://youtu.be/vbdw3iHzkFo?si=t1uXuEVWHDBGHPq3)
+15. Посмотреть и повторить за автором [Плавные переходы](https://youtu.be/hwWIm6DSSoE?si=0fzfXoaHkohIBORi)
+16. Посмотреть и повторить за автором [Анимации](https://youtu.be/XG5JulRHSV8?si=jdlf_U6Ok9YCQigj)
+17. Посмотреть и повторить за автором [Таблицы и курсор](https://youtu.be/Y5MwssNWetI?si=UZD5AiK_u9sjknA-)
+18. Посмотреть и повторить за автором [Текстовые эффекты и многоколоночный текст](https://youtu.be/6sc-gmz_MYQ?si=HCeYQyj1fvDsZUYB)
+19. Посмотреть и повторить за автором [Медиазапросы и Devices toolbar в инструментах разработчика](https://youtu.be/lv47xClJolw?si=B6eEe0fmRGwc7iWY)
+20. Посмотреть и повторить за автором [Стилизацию плейсхолдера и скролла, CSS-спрайты](https://youtu.be/_eO1urQ71Lw?si=AIT2OdwD3F3Leok5)
+
+#### CSS Flexbox
+1. Посмотреть [Введение](https://youtu.be/O-ytfplFQ3c?si=qlPnynHKlOXvEvw_) и [Основные понятия](https://youtu.be/9MxBkY2_WNA?si=19tfKJaAZ07ggWkE)
+2. Посмотреть и повторить за автором [Направление осей (Flex-direction)](https://youtu.be/OQ6GyMD5E-s?si=VyasemRLjChMmtvb)
+3. Посмотреть и повторить за автором [Перенос элементов и отступы (Flex-wrap & Gap)](https://youtu.be/zvkE0MY1cxE?si=hKkujnVFbu2BDH-3). _Свойство gap уже широко поддерживается_
+4. Посмотреть и повторить за автором [Выравнивание вдоль главной оси (Alignment: justify-content)](https://youtu.be/FKDfECxwC54?si=G1KZvbw6EJW4F5xJ)
+5. Посмотреть и повторить за автором [Выравнивание вдоль поперечной оси (Alignment: align-items)](https://youtu.be/_9idibPDs1s?si=mPpMr4ItVRaCytNJ)
+6. Посмотреть и повторить за автором [Многострочное выравнивание (Alignment: align-content)](https://youtu.be/sDkL7o0LXF0?si=q3FP3iZfh-8kjwhk)
+7. Посмотреть и повторить за автором [Индивидуальное выравнивание элементов (Alignment: align-self)](https://youtu.be/WeFMfoK9R2o?si=69vQQovMXWrr4IGs)
+8. Посмотреть и повторить за автором [Размеры элементов (Flexbox Sizing)](https://youtu.be/rDdUWDaJzQ8?si=fitipAvK-G9hIJmW)
+9. Посмотреть и повторить за автором [Определение порядка элементов (Order)](https://youtu.be/o_ozA-YMttU?si=YKHKidqh_HOGDUvl)
+10. Посмотреть и повторить за автором [Вложенность. Обёртка элементов с размерами (Nesting. Flex-basis & Flex-wrap)](https://youtu.be/ar1F5IwBeSc?si=3CSjO4D3vdZNbkzq)
+11. Посмотреть и повторить за автором [Практические примеры использования Flexbox](https://youtu.be/GGiHxIOmPaE?si=1almZUGid6-9YI4f)
+
 
 ## Обратная связь и контакты
 
