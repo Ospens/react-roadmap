@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){console.log("asdasd");const e=document.querySelectorAll("a");e.forEach(e=>{e.hostname!==window.location.hostname&&(e.setAttribute("target","_blank"),e.setAttribute("rel","noopener noreferrer"))})})
