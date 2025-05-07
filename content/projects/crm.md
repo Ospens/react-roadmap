@@ -42,7 +42,12 @@ weight = 5
 - Роутинг
   - [Документация react-router](https://reactrouter.com/en/main/start/tutorial)
   - [Гайд по react-router](https://ru.hexlet.io/blog/posts/react-router-v6)
- 
+TODO:
+  - локализация 
+  - нужен гайд или пособие как обрабатывать ошибки с сервера
+  - Как сделать Private Routes с авторизацией через JWT token https://habr.com/ru/amp/publications/732432/
+  - Добавить внешее бесплатное апи, типа новостей
+
 ## Техническое задание
 
 ![img.png](/react-roadmap/images/crm/dashboard.jpg)
