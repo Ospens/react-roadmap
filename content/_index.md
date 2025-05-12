@@ -1,5 +1,6 @@
 +++
 title = 'Испытание багами'
+keywords = ["frontend разработчик", "frontend roadmap", "бесплатный курс фронтенд", "обучение программированию с нуля", "HTML CSS JavaScript React TypeScript"]
 +++
 
 # Frontend роадмап "Испытание багами"
