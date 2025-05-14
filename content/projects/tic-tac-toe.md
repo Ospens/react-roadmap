@@ -74,6 +74,25 @@ weight = 2
 4. Посмотреть [Основы программирования. Урок 4. Теория вычислимости](https://youtu.be/L6AvLG_k1G8?si=b_6KWr2VLHRGeHa-). Решить домашние задания.
 5. Посмотреть [Основы программирования. Урок 5. Функции в программировании для начинающих](https://youtu.be/L6AvLG_k1G8?si=b_6KWr2VLHRGeHa-)
 
+#### Основы JavaScript. Тренажер
+1. Пройти [Зачем нужен JavaScript?](https://htmlacademy.ru/courses/343/run/1)
+2. Пройти задание ["Знакомимся с переключением тем"](https://htmlacademy.ru/courses/343/run/2)
+3. Пройти задание ["Находим элемент с помощью querySelector"](https://htmlacademy.ru/courses/343/run/3)
+4. Пройти задание ["Выводим элемент в консоль"](https://htmlacademy.ru/courses/343/run/4)
+5. Пройти задание ["Добавляем класс элементу с помощью classList.add"](https://htmlacademy.ru/courses/343/run/6)
+6. Пройти задание ["Объявляем переменную"](https://htmlacademy.ru/courses/343/run/7)
+7. Пройти задание ["Знакомимся с обработчиком событий"](https://htmlacademy.ru/courses/343/run/8)
+8. Пройти задание ["Переключаем тему по клику"](https://htmlacademy.ru/courses/343/run/9)
+9. Пройти задание ["Знакомимся с classList.toggle"](https://htmlacademy.ru/courses/343/run/10)
+10. Пройти задание ["Завершаем переключатель тем"](https://htmlacademy.ru/courses/343/run/11)
+11. Пройти задание ["Знакомимся со свойством textContent"](https://htmlacademy.ru/courses/343/run/12)
+12. Пройти задание ["Меняем текстовое содержимое элемента"](https://htmlacademy.ru/courses/343/run/13)
+13. Пройти задание ["Раскомментируем код"](https://htmlacademy.ru/courses/343/run/14)
+14. Пройти задание ["Получаем данные из поля ввода с помощью input.value"](https://htmlacademy.ru/courses/343/run/15)
+15. Пройти задание ["Используем конкатенацию"](https://htmlacademy.ru/courses/343/run/16)
+16. Сохранить ["Конспект «Основы JavaScript»"](https://htmlacademy.ru/courses/343/run/17) в закладки
+
+
 ## Обратная связь и контакты
 
 По любым вопросам пиши в чат [Испытания багами](https://t.me/+OMJRtJ9aNJYyMWUy), и подписывайся на канал [@js_is_easy](https://t.me/+jsgZ3_UEcoBlNjgy)
