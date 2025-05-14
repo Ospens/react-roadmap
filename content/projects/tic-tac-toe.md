@@ -92,6 +92,14 @@ weight = 2
 15. Пройти задание ["Используем конкатенацию"](https://htmlacademy.ru/courses/343/run/16)
 16. Сохранить ["Конспект «Основы JavaScript»"](https://htmlacademy.ru/courses/343/run/17) в закладки
 
+#### Основы JavaScript. Практика
+1. [Переменные и типы данных. Таймкоды: 0:00-17:16](https://youtu.be/UFmZaNj6wyA?si=7gtihcQv0FxzMoLL). Посмотреть, повторить за автором
+2. [Операции с переменными. Таймкоды: 17:16-28:32](https://www.youtube.com/watch?v=UFmZaNj6wyA&t=1036s). Посмотреть, повторить за автором
+3. [Условия и конструкция switch case. Таймкоды: 28:32-41:08](https://www.youtube.com/watch?v=UFmZaNj6wyA&t=1712s). Посмотреть, повторить за автором
+4. [Работа с массивами. Таймкоды: 41:08-1:07:53](https://www.youtube.com/watch?v=UFmZaNj6wyA&t=2468s). Посмотреть, повторить за автором
+5. [Функции. Таймкоды: 1:07:53-1:25:05](https://www.youtube.com/watch?v=UFmZaNj6wyA&t=4073s). Посмотреть, повторить за автором
+6. [Объекты. Таймкоды: 1:25:05-1:57:07](https://www.youtube.com/watch?v=UFmZaNj6wyA&t=5105s). Посмотреть, повторить за автором
+
 
 ## Обратная связь и контакты
 
