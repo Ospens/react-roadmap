@@ -129,8 +129,8 @@ weight = 1
 > - [HTML](https://doka.guide/html/)
 > - [CSS](https://doka.guide/css/)
 > - [Шпаргалка по Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-
-> Для расширения кругозора рекомендую читать пару-тройку тем в день. Многое из материалов понадобится в будущих проектах
+> 
+> Рекомендую читать пару тем в день. Многое из материалов понадобится в будущих проектах
 
 1. Посмотреть [Figma для разработчика](https://youtu.be/DWicd2qo2pk?si=XAdwMH7eTBBPIhAq), изучить [ТЗ](#%d1%82%d0%b5%d1%85%d0%bd%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%be%d0%b5-%d0%b7%d0%b0%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5) и макет
 2. Открыть редактор кода, создать index.html и styles.css файлы. Подключить файл стилей в html файл (см. раздел CSS п.2), открыть index.html в браузере
