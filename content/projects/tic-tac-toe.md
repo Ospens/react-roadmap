@@ -93,13 +93,20 @@ weight = 2
 15. Пройти задание ["Используем конкатенацию"](https://htmlacademy.ru/courses/343/run/16)
 16. Сохранить ["Конспект «Основы JavaScript»"](https://htmlacademy.ru/courses/343/run/17) в закладки
 
-#### Основы JavaScript. Практика
+#### JavaScript. Основные конструкции
 1. [Переменные и типы данных. Таймкоды: 0:00-17:16](https://youtu.be/UFmZaNj6wyA?si=7gtihcQv0FxzMoLL). Посмотреть, повторить за автором
 2. [Операции с переменными. Таймкоды: 17:16-28:32](https://www.youtube.com/watch?v=UFmZaNj6wyA&t=1036s). Посмотреть, повторить за автором
 3. [Условия и конструкция switch case. Таймкоды: 28:32-41:08](https://www.youtube.com/watch?v=UFmZaNj6wyA&t=1712s). Посмотреть, повторить за автором
 4. [Работа с массивами. Таймкоды: 41:08-1:07:53](https://www.youtube.com/watch?v=UFmZaNj6wyA&t=2468s). Посмотреть, повторить за автором
 5. [Функции. Таймкоды: 1:07:53-1:25:05](https://www.youtube.com/watch?v=UFmZaNj6wyA&t=4073s). Посмотреть, повторить за автором
 6. [Объекты. Таймкоды: 1:25:05-1:57:07](https://www.youtube.com/watch?v=UFmZaNj6wyA&t=5105s). Посмотреть, повторить за автором
+
+#### JavaScript. Практика
+1. Решить задачу [Конвертор температур](https://buildin.ai/share/f9451f48-67f4-4081-8160-23dae7ecb9b8?code=Y1UQTB)
+2. Решить задачу [Изменение IP-адреса](https://buildin.ai/share/31dafcfa-ce4e-4477-810a-653cf8ccf517?code=Y1UQTB)
+3. Решить задачу [Количество пассажиров на рейсе](https://buildin.ai/share/2fa63b42-823a-4e68-bda2-d531eed2d864?code=Y1UQTB)
+4. Решить задачу [Сортировка людей по росту](https://buildin.ai/share/da181154-2de0-4e00-8194-8ae4d14e9c77?code=Y1UQTB)
+5. Решить задачу [Драгоценности и камни](https://buildin.ai/share/9c2cdea0-b234-468e-9a6c-e0858a80c120?code=Y1UQTB)
 
 
 ## Обратная связь и контакты
