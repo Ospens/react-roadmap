@@ -1,6 +1,6 @@
 baseURL = 'https://ospens.github.io/react-roadmap/'
 languageCode = 'ru'
-title = 'Frontend роадмап'
+title = 'Испытание багами'
 theme = 'hugo-book'
 
 [params]
