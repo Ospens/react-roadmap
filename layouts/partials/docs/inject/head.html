@@ -17,4 +17,45 @@
 	});
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/100129179" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<style>
+    @media (max-width: 1199px) and (min-width: 897px), (max-width: 649px) {
+        .book-columns {
+            flex-direction: column;
+        }
+    }
+    .cta-btn {
+        display:inline-block !important;
+        padding:14px 32px !important;
+        font:600 18px/1.2 'Inter', sans-serif !important;
+        color:#fff !important;
+        background:#E63946;
+        border-radius:12px !important;
+        border: none !important;
+        box-shadow:0 0 0 0 rgba(230,57,70,.7) !important;
+        transition:transform .2s ease;
+        animation:pulse 1.2s ease-in-out infinite;
+    }
+
+    @keyframes pulse{
+        0%  {transform:scale(1);   box-shadow:0 0 0 0   rgba(230,57,70,.6);}
+        50% {transform:scale(1.06);box-shadow:0 0 12px 6px rgba(230,57,70,.3);}
+        100%{transform:scale(1);   box-shadow:0 0 0 0   rgba(230,57,70,.0);}
+    }
+
+    .cta-btn:hover,
+    .cta-btn:focus-visible{
+        transform:scale(1.08);
+        animation:none;
+    }
+
+    .cta-btn-full-w{
+        display: flex!important;
+        justify-content: center;
+        width: 100%;
+    }
+    .markdown table {
+        display: table;
+        width: 100%;
+    }
+</style>
 <!-- /Yandex.Metrika counter -->

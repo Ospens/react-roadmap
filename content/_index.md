@@ -5,22 +5,22 @@ description = "Изучи HTML, CSS, JavaScript, React и TypeScript по бес
 
 # Frontend роадмап "Испытание багами"
 
-{{% columns ratio="1:2" %}}
+{{% columns ratio="1:1" %}}
 ![example.png](/react-roadmap/images/logo.webp)
 <--->
 
 {{% hint info %}}
-#### Пройди 5 боевых проектов и выйди на удалённую зарплату от **150 000 ₽**, даже если ты никогда не писал код
+Пройди 5 боевых проектов и выйди на удалённую зарплату от **150 000 ₽**, даже если ты никогда не писал код
 {{% /hint %}}
 
 {{% hint danger %}}
-🎁 **БОНУС для самых заряженных**: первые 3 человека, которые пройдут роадмап до конца, получат бесплатное персональное сопровождение до трудоустройства!
+🎁 **БОНУС для самых заряженных**: первые 3 человека, которые выполнят все проекты, получат бесплатное персональное сопровождение до трудоустройства!
+
 **Занятые призовые места: 0 из 3**
 
-{{< button href="https://boosty.to/ilya.yurkin/posts/ab54e3e4-d0c1-4345-9133-061919949c73" >}}ПРИНЯТЬ УЧАСТИЕ{{< /button >}}
+{{< button href="https://boosty.to/ilya.yurkin/posts/ab54e3e4-d0c1-4345-9133-061919949c73" class="cta-btn cta-btn-full-w" >}}ПРИНЯТЬ УЧАСТИЕ{{< /button >}}
 {{% /hint   %}}
 {{% /columns %}}
-
 
 ---
 
@@ -51,7 +51,7 @@ description = "Изучи HTML, CSS, JavaScript, React и TypeScript по бес
 
 **Цена: 500 ₽/мес** — дешевле, чем две кружки кофе в Москве
 
-{{< button href="https://boosty.to/ilya.yurkin" >}}Вступить в лагерь{{< /button >}}
+{{< button href="https://boosty.to/ilya.yurkin" class="cta-btn" >}}Вступить в лагерь{{< /button >}}
 
 ---
 
@@ -66,7 +66,7 @@ description = "Изучи HTML, CSS, JavaScript, React и TypeScript по бес
 
 **Стоимость**: 5 000 ₽/мес на время подготовки + пост-оплата 150% от первой зарплаты. Пост-оплату можно разделить на 3 месяца
 
-{{< button href="https://t.me/m/Mu166gYdNzdi" >}}Записаться на персональный звонок{{< /button >}}
+{{< button href="https://t.me/m/Mu166gYdNzdi" class="cta-btn" >}}Записаться на персональный звонок{{< /button >}}
 
 ---
 ## Почему мне можно доверять
@@ -115,8 +115,6 @@ description = "Изучи HTML, CSS, JavaScript, React и TypeScript по бес
 После получения зарплаты переводишь 50% три месяца подряд. Без всяких процентов и переплат
 {{% /details %}}
 
----
-
 ## Таблица проектов
 
 | Проект                                                  | Технологии                                          |
@@ -130,5 +128,5 @@ description = "Изучи HTML, CSS, JavaScript, React и TypeScript по бес
 ---
 
 #### Готов пройти Испытание Багами и сразится за высокую зарплату на удаленке?
-{{< button href="./projects/landing" >}}Начать сегодня{{< /button >}}
+{{< button href="./projects/landing"class="cta-btn cta-btn-full-w" >}}Начать сегодня{{< /button >}}
 
