@@ -1,7 +1,6 @@
 +++
 title = 'Испытание багами'
 description = "Изучи HTML, CSS, JavaScript, React и TypeScript по бесплатному роадмапу. Практика на реальных задачах и моя личная поддержка всего за 300₽/мес. Начни сегодня!"
-keywords = ["frontend разработчик", "frontend roadmap", "бесплатный курс фронтенд", "обучение программированию с нуля", "HTML CSS JavaScript React TypeScript"]
 +++
 
 # Frontend роадмап "Испытание багами"
