@@ -47,6 +47,7 @@ weight = 5
 
 ![img.png](/react-roadmap/images/crm/dashboard.jpg)
 
+- Сделай форк репозитория https://github.com/Ospens/crm-app-template. В нем уже есть все нужные настойки, можно сразу писать приложение.
 - [**Макет приложения**](https://www.figma.com/design/lRmK4QDxfsoIur0RXVBPsU/CRM--%7C-EasyJS?node-id=86-1359&t=PdCUqigkyU51FUFx-1)
 - IP сервера: **167.71.2.84**
 - [Postman коллекция со всеми эндпоинтами](https://disk.yandex.ru/d/GiaAHDLcYfHelg)
