@@ -33,7 +33,7 @@ weight = 5
 - Postman - Это инструмент для удобной работы с API за пределами приложения
   - [Основы Postman](https://habr.com/ru/companies/maxilect/articles/596789/)
   - [Гайд с примерами](https://testengineer.ru/gajd-po-testirovaniyu-v-postman/). Актуально до параграфа "Создание тестов в Postman"
-- Подход к стилизации ты тоже можешь выбрать самостоятельно: БЭМ, CSS модули или tailwind.
+- Подход к стилизации выбери самостоятельно: БЭМ, CSS модули или tailwind.
 - Feature-Sliced Design (FSD)
   - [Обзор архитектуры](https://youtu.be/GQO73xCzTCA?si=zhHc6GxnMuzMTDMC)
   - [Документация](https://feature-sliced.design/ru/docs)
@@ -42,6 +42,11 @@ weight = 5
 - Роутинг
   - [Документация react-router](https://reactrouter.com/en/main/start/tutorial)
   - [Гайд по react-router](https://ru.hexlet.io/blog/posts/react-router-v6)
+  - [Как сделать Private Routes с авторизацией через JWT token](https://habr.com/ru/articles/732432/)
+- Общее
+  - [Принцип «Fail Fast!» в разработке приложений](https://habr.com/ru/articles/697084/)
+  - [Принципы для разработки: KISS, DRY, YAGNI, BDUF, SOLID, APO и бритва Оккама](https://habr.com/ru/companies/itelma/articles/546372/)
+  - [Single Responsibility Principle. Не такой простой, как кажется](https://habr.com/ru/articles/454290/)
 
 ## Техническое задание
 
