@@ -29,9 +29,9 @@ weight = 3
 
 - [Официальный сайт Node.JS](https://nodejs.org/en)
 - [Полный гайд по NPM для новичков](https://www.youtube.com/watch?v=FDfvuNbSs4U)
-- Vite - Современный и простой сборщик приложений. Очень прост в настройке:
-  - [Документация Vite](https://vite.dev/guide/#scaffolding-your-first-vite-project)
-  - [Подробный Vite + React урок для начинающих](https://youtu.be/UTBqqUgvVGI?si=4bABH6bc294ejXme)
+- Vite - Современный и простой сборщик приложений. В этом проекте он уже настроен для работы. Материалы для углубленного изучения:
+  - [Официальная документация Vite](https://vite.dev/guide/#scaffolding-your-first-vite-project)
+  - [Документация Vite на русском](https://vite-docs-ru.vercel.app/guide/)
 - React:
   - [React JS c Нуля – Курс для начинающих](https://youtu.be/kz23xxukY5s?si=8Eva_RtuNoHa-IDc)
   - [Legacy-документация](https://ru.legacy.reactjs.org/docs/getting-started.html) — объяснено простым языком.
