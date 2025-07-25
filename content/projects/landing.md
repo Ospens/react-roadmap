@@ -57,15 +57,7 @@ weight = 1
 >        - [Альтернативный с моего облака](https://disk.yandex.ru/d/QH3DzNzdouDEnQ). Скачай версию для своей ОС
 > - **[VS Code](https://code.visualstudio.com/)**. Для тех, кто любит много настроек. В этом проекте можно сразу приступить к работе, в последующих понадобится ставить плагины. Инструкция по настройке [тут](https://youtu.be/MXl_fl25udE?si=67R0bHsH0VYGQhsy)
 
-3. [Введение](https://youtu.be/NUtloXE1L9U?si=jsGKRRukuKw2iI8Y) и [Базовая структура HTML документа](https://youtu.be/01QJmn0vDxs?si=6A1yMS05ffOZaycT). Посмотреть и повторить за автором
-4. Посмотреть теорию. _В этом шаге не нужно повторять за автором._
-   - [Мета-данные и внешние импорты (Meta Data & External Imports)](https://youtu.be/RTqHlz8VsQA?si=qkcHJBvUyFEDfjmU)
-   - [Валидация, семантика и доступность](https://youtu.be/6-9m0I19_Hc?si=9acefaor7O3t8wuY)
-5. [Текст](https://youtu.be/xWxGrrcWbrk?si=nhXd3SdtmYhF4YGg). Создать новый файл с названием "text.html". Перенести код раздела себе в редактор. Посмотреть как выглядит в браузере
-6. [Списки](https://youtu.be/xXCOXsBzm48?si=GRowUyRGWVucdczx). Создать новый файл с названием "list.html". Перенести код раздела себе в редактор. Посмотреть как выглядит в браузере
-7. [Картинки](https://youtu.be/nZ8XPmXn2Jk?si=EEHvbu4QeKw1jiAS). Создать новый файл с названием "images.html". Перенести код раздела себе в редактор. Посмотреть как выглядит в браузере
-8. [Ссылки и кнопки](https://youtu.be/FA0jjOjTChA?si=vdhofDiGirAsU8MA). Создать новый файл с названием "links.html". Перенести код раздела себе в редактор. Посмотреть как выглядит в браузере
-9. [Глобальная структура сайта](https://youtu.be/ylCstIgYd54?si=V0tPBaP6gG-RbCPA). Создать новый файл с названием "layouts.html". Перенести код раздела себе в редактор. Посмотреть как выглядит в браузере
+3. Посмотреть [курс HTML c нуля](https://youtu.be/DOEtVdkKwcU?si=huCpWnXAS4ZDcmzK) и повторить за автором. Видео разбито по таймкодам, воспринимай их как подзадания и иди маленькими шажочками
 
 #### Git
 1. Посмотреть теорию [Основы GIT](https://youtu.be/cEO4601BitU?si=lwwcgR8FYLi9Hsnn) и [Что такое GitHub?](https://www.youtube.com/watch?v=kJur88PGMtM)
