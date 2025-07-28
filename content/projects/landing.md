@@ -59,66 +59,22 @@ weight = 1
 
 3. Посмотреть [курс HTML c нуля](https://youtu.be/DOEtVdkKwcU?si=huCpWnXAS4ZDcmzK) и повторить за автором. Видео разбито по таймкодам, воспринимай их как подзадания и иди маленькими шажочками
 
+#### CSS
+1. Изучить подробнее [инструменты разработчика (до 8 минуты)](https://youtu.be/rIq0nXSm2Ek?si=fTgylSyy2Bo-0bu1&t=90). Они пригодятся для удобной работы с HTML и CSS.
+2. Посмотреть [курс CSS для начинающих](https://youtu.be/SpCUuyZZTp8?si=7_s9cwVLOx9WwdG0) и повторить за автором. Видео разбито по таймкодам, воспринимай их как подзадания и иди маленькими шажочками
+
+#### CSS Flexbox
+1. Посмотреть [практический курс по Flexbox](https://youtu.be/eVZEwEQg4pg?si=XZ7ZEgwBfqSr_tI7)
+2. Помочь лягушкам найти кувшинки: [Flexbox Froggy](https://flexboxfroggy.com/)
+
 #### Git
+В этом проекте тебе пригодится всего 2 команды: `git commit -m 'сообщеиние коммита'` и `git push`. Остальное понадобится позже
 1. Посмотреть теорию [Основы GIT](https://youtu.be/cEO4601BitU?si=lwwcgR8FYLi9Hsnn) и [Что такое GitHub?](https://www.youtube.com/watch?v=kJur88PGMtM)
-2. [Установить GIT](https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-Git). Если есть вопросы, то вот видео с [подробными шагами и настройкой для Windows](https://youtu.be/GsG5roSGha0?si=u7ZPrcc_GsgKOoqc)
+2. [Установить GIT](https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-Git). Видео с [подробными шагами и настройкой для Windows](https://youtu.be/GsG5roSGha0?si=u7ZPrcc_GsgKOoqc)
 3. Пройти первые три задания в [тренажере](https://learngitbranching.js.org/?locale=ru_RU)
    1. Знакомство с git commit
    2. Ветвление в Git
    3. Слияния веток в Git
-
-#### CSS
-{{% hint info %}}
-Шаги выполнения пункта 3 и дальше аналогичны инструкции в пункте 2
-{{% /hint %}}
-
-1. Изучить подробнее [инструменты разработчика (до 8 минуты)](https://youtu.be/rIq0nXSm2Ek?si=fTgylSyy2Bo-0bu1&t=90)
-2. Посмотреть [введение в CSS3](https://youtu.be/8pQKDVRc0T8?si=z74vK5_xW3LkdJZ_)
-3. Изучить [Базовый синтаксис и применение стилей](https://youtu.be/qxAnaoPI8cE?si=vpfu1uLaSYFHaGIr)
-    1. Создать папку frontend на рабочем столе 
-    2. Открыть папки и открыть в ней Консоль. Те же самые действия как в [п.11 на 8 минуте](https://youtu.be/GsG5roSGha0?si=ku4tP5loBG9QTjoU&t=474)
-    3. Выполнить команду `git clone https://github.com/YauhenKavalchuk/css3-basics.git`
-    4. Перейти в папку с проектом командой `cd css3-basics`
-    5. Переключится на ветку урока командой `git checkout lesson_01`
-    6. Открыть папку **css3-basics** в редакторе кода
-    7. Посмотреть видео и повторить за автором
-    8. Сделать коммит своих изменений: `git add .` потом `git commit -m 'my changes'`
-4. Изучить [Простые селекторы](https://youtu.be/vnmfn31G988?si=mMshNiIds47Ep0kv)
-    1. Переключится на ветку урока. Можно использовать способ как в п 13.5, а можно посредством IDE: [пример WebStorm](/react-roadmap/images/landing/branches-webstorm.png) и [пример VS Code](/react-roadmap/images/landing/branches-vscode.png)
-    2. Посмотреть видео и повторить за автором
-    3. Сделать коммит своих изменений: `git add .` потом `git commit -m 'название урока'`
-5. [Составные селекторы](https://youtu.be/fyI_K_Oya74?si=sXRGb_PXC4UtcguN). Посмотреть и повторить за автором 
-6. [Псевдоэлементы и псевдоклассы](https://youtu.be/C40ePbYJxmM?si=AgAVUq6Iwz8RJkLC). Посмотреть и повторить за автором 
-7. [Каскадность и наследование и сброс стилей браузера](https://youtu.be/Y8UFzOoKkvQ?si=7M95sa6zqiknYDgC). Посмотреть и повторить за автором 
-8. [Блочная модель и отступы](https://youtu.be/1jvIi039-i4?si=S40Su-Xme934vQZw). Посмотреть и повторить за автором 
-9. [Позиционирование и размеры](https://youtu.be/iydD985acAc?si=B6uMOTZOx_qcnikJ). Посмотреть и повторить за автором 
-10. [Единицы, переполнение и уровни элементов](https://youtu.be/pEdt0afL2-o?si=mSwebeVSPGLsww0_). Посмотреть и повторить за автором 
-11. [Шрифты и текст](https://youtu.be/TAB8pVUKiI4?si=a1-1fvKtl9mG36hs). Посмотреть и повторить за автором 
-12. [Границы и тени](https://youtu.be/dAHu16pgBrg?si=ofP1z1YHFH7EWEmX). Посмотреть и повторить за автором 
-13. [Скругление углов, списки и цвета](https://youtu.be/zaJh6CymejM?si=f6AM7eK_6WDd7oFd). Посмотреть и повторить за автором 
-14. [Фон](https://youtu.be/5k-x7FUnDuE?si=WtgTvMvngEBjg8gw). Посмотреть и повторить за автором 
-15. [Градиенты](https://youtu.be/8mzap9y6ECE?si=eHKFMfscLt5oGTkN). Посмотреть и повторить за автором 
-16. [Трансформации](https://youtu.be/vbdw3iHzkFo?si=t1uXuEVWHDBGHPq3). Посмотреть и повторить за автором 
-17. [Плавные переходы](https://youtu.be/hwWIm6DSSoE?si=0fzfXoaHkohIBORi). Посмотреть и повторить за автором 
-18. [Анимации](https://youtu.be/XG5JulRHSV8?si=jdlf_U6Ok9YCQigj). Посмотреть и повторить за автором 
-19. [Таблицы и курсор](https://youtu.be/Y5MwssNWetI?si=UZD5AiK_u9sjknA-). Посмотреть и повторить за автором 
-20. [Текстовые эффекты и многоколоночный текст](https://youtu.be/6sc-gmz_MYQ?si=HCeYQyj1fvDsZUYB). Посмотреть и повторить за автором 
-21. [Медиазапросы и Devices toolbar в инструментах разработчика](https://youtu.be/lv47xClJolw?si=B6eEe0fmRGwc7iWY). Посмотреть и повторить за автором 
-22. [Стилизацию плейсхолдера и скролла, CSS-спрайты](https://youtu.be/_eO1urQ71Lw?si=AIT2OdwD3F3Leok5). Посмотреть и повторить за автором 
-
-#### CSS Flexbox
-1. Посмотреть [Введение](https://youtu.be/O-ytfplFQ3c?si=qlPnynHKlOXvEvw_) и [Основные понятия](https://youtu.be/9MxBkY2_WNA?si=19tfKJaAZ07ggWkE)
-2. [Направление осей (Flex-direction)](https://youtu.be/OQ6GyMD5E-s?si=VyasemRLjChMmtvb). Посмотреть и повторить за автором 
-3. [Перенос элементов и отступы (Flex-wrap & Gap)](https://youtu.be/zvkE0MY1cxE?si=hKkujnVFbu2BDH-3). Посмотреть и повторить за автором . _Свойство gap уже широко поддерживается_
-4. [Выравнивание вдоль главной оси (Alignment: justify-content)](https://youtu.be/FKDfECxwC54?si=G1KZvbw6EJW4F5xJ). Посмотреть и повторить за автором 
-5. [Выравнивание вдоль поперечной оси (Alignment: align-items)](https://youtu.be/_9idibPDs1s?si=mPpMr4ItVRaCytNJ). Посмотреть и повторить за автором 
-6. [Многострочное выравнивание (Alignment: align-content)](https://youtu.be/sDkL7o0LXF0?si=q3FP3iZfh-8kjwhk). Посмотреть и повторить за автором 
-7. [Индивидуальное выравнивание элементов (Alignment: align-self)](https://youtu.be/WeFMfoK9R2o?si=69vQQovMXWrr4IGs). Посмотреть и повторить за автором 
-8. [Размеры элементов (Flexbox Sizing)](https://youtu.be/rDdUWDaJzQ8?si=fitipAvK-G9hIJmW). Посмотреть и повторить за автором 
-9. [Определение порядка элементов (Order)](https://youtu.be/o_ozA-YMttU?si=YKHKidqh_HOGDUvl). Посмотреть и повторить за автором 
-10. [Вложенность. Обёртка элементов с размерами (Nesting. Flex-basis & Flex-wrap)](https://youtu.be/ar1F5IwBeSc?si=3CSjO4D3vdZNbkzq). Посмотреть и повторить за автором 
-11. [Практические примеры использования Flexbox](https://youtu.be/GGiHxIOmPaE?si=1almZUGid6-9YI4f). Посмотреть и повторить за автором 
-12. Помочь лягушкам найти кувшинки: [Flexbox Froggy](https://flexboxfroggy.com/)
 
 ### Выполнение проекта
 {{% hint warning %}}
