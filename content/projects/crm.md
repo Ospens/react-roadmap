@@ -21,7 +21,7 @@ weight = 5
 
 - Работа с API и данными
   - [REST API: для чего нужен и как работает](https://yandex.cloud/ru/docs/glossary/rest-api)
-  - [Что такое CRUD](https://orbitsoft.com/ru/blog/crud/)
+  - [Что такое CRUD](https://highload.tech/chto-takoe-crud-prostymi-slovami-funktsii-preimushhestva-i-primery/)
   - [Документация axios](https://axios-http.com/ru/docs/intro) - HTTP-клиент для JS приложений. Де-факто стандарт фронтенд индустрии для работы с сетью.
   - react-query
     - [Документация @tanstack/react-query](https://tanstack.com/query/latest/docs/framework/react/installation) - библиотека для удобного хранения и манипулирования данными на сервере с клиента.
