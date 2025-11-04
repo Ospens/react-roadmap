@@ -146,4 +146,4 @@ weight = 2
 
 ## Обратная связь и контакты
 
-По любым вопросам пиши в чат [Испытания багами](https://boosty.to/ilya.yurkin), и подписывайся на канал [@js_is_easy](https://t.me/+jsgZ3_UEcoBlNjgy)
+Меня можно найти подписавшись на канал [@js_is_easy](https://t.me/+jsgZ3_UEcoBlNjgy)

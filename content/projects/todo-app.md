@@ -61,4 +61,4 @@ git clone https://github.com/ТВОЙ_АККАУНТ/todo-app-template.git
 
 ## Обратная связь и контакты
 
-По любым вопросам пиши мне, [@i_urKing](https://t.me/i_urKing), и подписывайся на канал [@js_is_easy](https://t.me/+jsgZ3_UEcoBlNjgy)
+Меня можно найти подписавшись на канал [@js_is_easy](https://t.me/+jsgZ3_UEcoBlNjgy)
