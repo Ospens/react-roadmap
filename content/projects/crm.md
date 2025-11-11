@@ -54,7 +54,7 @@ weight = 5
 
 - Сделай форк репозитория https://github.com/Ospens/crm-app-template. В нем уже есть все нужные настойки, можно сразу писать приложение.
 - [**Макет приложения**](https://www.figma.com/design/lRmK4QDxfsoIur0RXVBPsU/CRM--%7C-EasyJS?node-id=86-1359&t=PdCUqigkyU51FUFx-1)
-- Адрес сервера: **213.171.12.144/crm-api**
+- Адрес сервера: **http://213.171.12.144/crm-api/api/**
 - [Swagger (документация API)](http://213.171.12.144/crm-api/api-docs/)
 
 ### Базовый функционал
